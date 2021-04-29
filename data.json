@@ -1,0 +1,37 @@
+{
+  "members": [
+    {
+      "id": 1,
+      "avatar_url": "https://source.unsplash.com/collection/9419482/500x500",
+      "name": "Wanderson Medeiros de Souza",
+      "email": "desonwms@gmail.com",
+      "birth": 408153600000,
+      "gender": "M",
+      "blood": "O+",
+      "weight": "72",
+      "height": "170"
+    },
+    {
+      "id": 2,
+      "avatar_url": "https://source.unsplash.com/collection/9419482/500x500",
+      "name": "Deia Medeiros",
+      "email": "deia@gmail.com",
+      "birth": -153792000000,
+      "gender": "F",
+      "blood": "O+",
+      "weight": "60",
+      "height": "165"
+    }
+  ],
+  "instructors": [
+    {
+      "id": 1,
+      "avatar_url": "https://source.unsplash.com/collection/9419482/500x500",
+      "name": "Desson",
+      "birth": 828748800000,
+      "gender": "M",
+      "services": "Musculação",
+      "created_at": 1618325161443
+    }
+  ]
+}
